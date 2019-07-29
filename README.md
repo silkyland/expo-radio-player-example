@@ -4,10 +4,9 @@ Exponent Radio Player Example
 ## Clone 
 ```
   git clone https://github.com/silkyland/expo-radio-player-example
-
+```
 ```
   cd expo-radio-player-example
-
 ```
  yarn
 ```
