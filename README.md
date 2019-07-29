@@ -8,6 +8,7 @@ Exponent Radio Player Example
 ```
   cd expo-radio-player-example
 ```
+```
  yarn
 ```
 ## Config 
