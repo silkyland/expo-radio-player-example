@@ -10,9 +10,8 @@ Exponent Radio Player Example
 
 ```
  yarn
- 
-## Config 
 ```
+## Config 
   1. Open project with editor
   2. Go to config/index.js
   3. Add link 
